@@ -5,8 +5,8 @@
 	src:
 		local('Pigeonettev01-Regular'),
 		local('Pigeonette v01 Regular'),
-		url('../Fonts/Pigeonette_v01.woff') format('woff'),
-		url('../Fonts/Pigeonette_v01.woff2') format('woff2');
+		url('../fonts/Pigeonette_v01.woff') format('woff'),
+		url('../fonts/Pigeonette_v01.woff2') format('woff2');
 }
 
 @font-face {
@@ -16,6 +16,5 @@
 	src:
 		local('Pigeonettev01-Bold'),
 		local('Pigeonette v01 Bold'),
-		url('../Fonts/PigeonetteBold_v01.woff') format('woff'),
-		url('../Fonts/PigeonetteBold_v01.woff2') format('woff2');
-}
+		url('../fonts/PigeonetteBold_v01.woff') format('woff'),
+		url('../fonts/PigeonetteBold_v01.woff2') format('woff2');
