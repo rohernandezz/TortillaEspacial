@@ -3,10 +3,8 @@
 	font-style: normal;
 	font-weight: 400;
 	src:
-		local('Yanone Kaffeesatz Regular'),
-		local('YanoneKaffeesatz-Regular'),
-		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLRTHiN2BPBirwIkMLKUspj4.woff */
-		url('Yanone_Kaffeesatz_400.woff') format('woff'),
-		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLfGwxTS8d1Q9KiDNCMKLFUM.woff2 */
-		url('Yanone_Kaffeesatz_400.woff2') format('woff2');
+		local('Pigeonettev01-Regular'),
+		local('Pigeonette v01 Regular'),
+		url('Pigeonette_v01.woff') format('woff'),
+		url('Pigeonette_v01.woff2') format('woff2');
 }

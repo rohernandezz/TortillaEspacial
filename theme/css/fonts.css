@@ -1,12 +1,21 @@
 @font-face {
-	font-family: 'Yanone Kaffeesatz';
+	font-family: 'Pigeonette Regular';
 	font-style: normal;
 	font-weight: 400;
 	src:
-		local('Yanone Kaffeesatz Regular'),
-		local('YanoneKaffeesatz-Regular'),
-		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLRTHiN2BPBirwIkMLKUspj4.woff */
-		url('../fonts/Yanone_Kaffeesatz_400.woff') format('woff'),
-		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLfGwxTS8d1Q9KiDNCMKLFUM.woff2 */
-		url('../fonts/Yanone_Kaffeesatz_400.woff2') format('woff2');
+		local('Pigeonettev01-Regular'),
+		local('Pigeonette v01 Regular'),
+		url('../Fonts/Pigeonette_v01.woff') format('woff'),
+		url('../Fonts/Pigeonette_v01.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pigeonette Bold';
+	font-style: bold;
+	font-weight: 800;
+	src:
+		local('Pigeonettev01-Bold'),
+		local('Pigeonette v01 Bold'),
+		url('../Fonts/PigeonetteBold_v01.woff') format('woff'),
+		url('../Fonts/PigeonetteBold_v01.woff2') format('woff2');
 }
